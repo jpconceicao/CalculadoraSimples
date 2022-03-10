@@ -1,0 +1,16 @@
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.exe
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.deps.json
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.json
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.dev.json
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.dll
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.AssemblyReference.cache
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.Form1.resources
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.GenerateResource.cache
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfoInputs.cache
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfo.cs
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.CoreCompileInputs.cache
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.dll
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+D:\Pessoal\Alura\CalculadoraSimples\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.genruntimeconfig.cache
